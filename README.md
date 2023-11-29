@@ -1,2 +1,1 @@
-# taleparty.github.io
 Taleparty
