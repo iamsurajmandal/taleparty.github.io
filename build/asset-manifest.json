@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teleparty/static/css/main.d5f3b5ce.css",
+    "main.js": "/teleparty/static/js/main.bdbd1ef8.js",
+    "index.html": "/teleparty/index.html",
+    "main.d5f3b5ce.css.map": "/teleparty/static/css/main.d5f3b5ce.css.map",
+    "main.bdbd1ef8.js.map": "/teleparty/static/js/main.bdbd1ef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f3b5ce.css",
+    "static/js/main.bdbd1ef8.js"
+  ]
+}
